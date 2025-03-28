@@ -1,14 +1,12 @@
-Password Manager
+# Password Manager
 
-Overview
-Welcome to the Password Manager project! This application is designed to help you securely store and manage your passwords. With the increasing number of online accounts and the need for strong, unique passwords for each, a reliable password manager is essential.
+## Overview
 
-Features:
-Secure Storage: Safely store your passwords using encryption.
-Easy Retrieval: Quickly retrieve passwords when needed.
-User-Friendly Interface: Simple and intuitive interface for managing your passwords.
-Cross-Platform: Accessible on multiple devices.
+Welcome to the **Password Manager** project! This application is designed to help you securely store and manage your passwords. With the increasing number of online accounts and the need for strong, unique passwords for each, a reliable and secure password manager has become essential.
 
-Getting Started:
-Clone the repository and follow the instructions in the code to set up your password manager.
+## Features
 
+- **Secure Storage**: Store your passwords safely with encryption.
+- **Easy Retrieval**: Retrieve passwords quickly when needed.
+- **User-Friendly Interface**: A simple and intuitive interface for managing your passwords.
+- **Cross-Platform**: Accessible across multiple devices.
